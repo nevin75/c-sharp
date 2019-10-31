@@ -1,0 +1,22 @@
+c:\users\ryan\documents\visual studio 2015\Projects\FlashcardsSolution\Flashcards\bin\Debug\Flashcards.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\FlashcardsSolution\Flashcards\bin\Debug\Flashcards.exe
+c:\users\ryan\documents\visual studio 2015\Projects\FlashcardsSolution\Flashcards\bin\Debug\Flashcards.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\FlashcardsSolution\Flashcards\obj\Debug\Flashcards.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\FlashcardsSolution\Flashcards\obj\Debug\Flashcards.exe
+c:\users\ryan\documents\visual studio 2015\Projects\FlashcardsSolution\Flashcards\obj\Debug\Flashcards.pdb
+D:\Code\C#\Flashcards-App\Flashcards\bin\Debug\Flashcards.exe.config
+D:\Code\C#\Flashcards-App\Flashcards\obj\Debug\Flashcards.exe
+D:\Code\C#\Flashcards-App\Flashcards\obj\Debug\Flashcards.pdb
+D:\Code\C#\Flashcards-App\Flashcards\bin\Debug\Flashcards.exe
+D:\Code\C#\Flashcards-App\Flashcards\bin\Debug\Flashcards.pdb
+D:\Code\C#\Flashcards-App\Flashcards\obj\Debug\Flashcards.csprojResolveAssemblyReference.cache
+D:\Code\C#\linkedlist-solution\Flashcards\bin\Debug\Flashcards.exe.config
+D:\Code\C#\linkedlist-solution\Flashcards\obj\Debug\Flashcards.exe
+D:\Code\C#\linkedlist-solution\Flashcards\obj\Debug\Flashcards.pdb
+C:\Users\Nevin.Danielson\source\repos\Flashcards-App\Flashcards\bin\Debug\Flashcards.exe.config
+C:\Users\Nevin.Danielson\source\repos\Flashcards-App\Flashcards\bin\Debug\Flashcards.exe
+C:\Users\Nevin.Danielson\source\repos\Flashcards-App\Flashcards\bin\Debug\Flashcards.pdb
+C:\Users\Nevin.Danielson\source\repos\Flashcards-App\Flashcards\obj\Debug\Flashcards.csprojAssemblyReference.cache
+C:\Users\Nevin.Danielson\source\repos\Flashcards-App\Flashcards\obj\Debug\Flashcards.csproj.CoreCompileInputs.cache
+C:\Users\Nevin.Danielson\source\repos\Flashcards-App\Flashcards\obj\Debug\Flashcards.exe
+C:\Users\Nevin.Danielson\source\repos\Flashcards-App\Flashcards\obj\Debug\Flashcards.pdb
