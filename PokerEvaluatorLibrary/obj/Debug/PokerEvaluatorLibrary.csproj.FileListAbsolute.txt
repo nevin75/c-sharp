@@ -1,0 +1,14 @@
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\bin\Debug\PokerEvaluatorLibrary.dll
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\bin\Debug\PokerEvaluatorLibrary.pdb
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\obj\Debug\PokerEvaluatorLibrary.csprojAssemblyReference.cache
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\obj\Debug\PokerEvaluatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\obj\Debug\PokerEvaluatorLibrary.csproj.CopyComplete
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\obj\Debug\PokerEvaluatorLibrary.dll
+C:\Users\Nevin.Danielson\source\repos\PokerEvaluatorLibrary\PokerEvaluatorLibrary\obj\Debug\PokerEvaluatorLibrary.pdb
